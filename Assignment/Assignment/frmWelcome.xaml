@@ -1,0 +1,6 @@
+﻿<Window x:Class="Assignment.frmWelcome"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="frmWelcome" Height="562.792" Width="404.056">
+    <Grid Margin="0,0,-8,7"/>
+</Window>
